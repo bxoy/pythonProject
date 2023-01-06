@@ -16,7 +16,7 @@ chrome_options.add_argument(
 )
 driver = webdriver.Chrome(options=chrome_options)
 driver.get(url)
-wait = WebDriverWait(driver, 50)
+wait = WebDriverWait(driver, 20)
 
 close_p = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'dy-account-close')))
 close = driver.find_element(By.CLASS_NAME, 'dy-account-close')
