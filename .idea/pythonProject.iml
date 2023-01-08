@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Spider/SCRAPY/tutorial" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Spider/seleniu-douyin-zuoye" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Spider/2.scrapy--异步--拼多多/homework/hupu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Spider/3.scrapy-hupu-mongo/hupu" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="spider" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
